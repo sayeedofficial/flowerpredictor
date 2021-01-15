@@ -1,4 +1,4 @@
-# catanddogpredictor
+# flower predictor
 
 A new Flutter project.
 
